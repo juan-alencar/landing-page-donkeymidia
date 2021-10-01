@@ -37,21 +37,6 @@ src: local('Ping LCG Black'), url('./ping-font/Ping LCG Black.woff') format('wof
 
 /* --------------------  DECLARAÇÃO DE FONTES  -------------------- */
 
-/*  
-    font{
-        size{
-            TÍTULOS: 7em ou 5em;
-            PARÁGRAFOS: 1.7em;
-            BOTÕES: 1.4em;
-        }
-        line-height: 1;
-    }
-
-    padding{
-        left: 10%;
-        right: 10%;
-    }
-*/
 
 
 *{
